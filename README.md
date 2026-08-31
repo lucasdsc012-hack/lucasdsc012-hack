@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 ᴏʟá, ᴇᴜ sᴏᴜ ᴏ **ʟᴜᴄᴀs**!
 
-<!--
-**lucasdsc012-hack/lucasdsc012-hack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  💻 <b>ᴇɴɢᴇɴʜᴇɪʀᴏ ᴅᴇ sᴏғᴛᴡᴀʀᴇ & ʜᴀʀᴅᴡᴀʀᴇ</b><br>
+  🔒 <b>ᴇsᴘᴇᴄɪᴀʟɪsᴛᴀ ᴇᴍ ᴄʏʙᴇʀsᴇᴄᴜʀɪᴛʏ & ʜᴀᴄᴋᴇʀ ᴇᴛɪᴄᴏ</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ ᴛᴇᴄɴᴏʟᴏɢɪᴀs ǫᴜᴇ ᴜsᴏ
+[![Minhas Skills](https://skillicons.dev/icons?i=c,python)](https://skillicons.dev)
+
+### 🎯 ǫᴜᴇʀᴏ ᴀᴘʀᴇɴᴅᴇʀ
+[![Quero Aprender](https://skillicons.dev/icons?i=assembly,java,cpp)](https://skillicons.dev)
+
