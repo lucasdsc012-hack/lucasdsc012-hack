@@ -29,8 +29,3 @@ Estou expandindo meus conhecimentos para alcançar meus objetivos profissionais:
 
 ---
 
-### 📊 ᴇsᴛᴀᴛísᴛɪᴄᴀs ᴅᴏ ɢɪᴛʜᴜʙ
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=dark&hide_border=true" />
-</p>
