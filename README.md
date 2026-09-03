@@ -9,8 +9,8 @@
 ---
 
 ### ⚡ ᴛᴇᴄɴᴏʟᴏɢɪᴀs ǫᴜᴇ ᴜsᴏ
-[![Minhas Skills Atuais](https://skillicons.dev/icons?i=c,python)](https://skillicons.dev)
-*Atualmente focado em C e Python para construir as bases da programação.*
+[![Minhas Skills Atuais](https://skillicons.dev/icons?i=c,python,git,linux)](https://skillicons.dev)
+*Atualmente focado em C e Python para construir as bases da programação, utilizando Linux e Git.*
 
 ---
 
@@ -19,10 +19,22 @@ Estou expandindo meus conhecimentos para alcançar meus objetivos profissionais:
 
 #### 🛠️ ᴇɴɢᴇɴʜᴀʀɪᴀ ᴅᴇ sᴏғᴛᴡᴀʀᴇ & ʜᴀʀᴅᴡᴀʀᴇ
 [![Software e Hardware](https://skillicons.dev/icons?i=java,cpp)](https://skillicons.dev)
-- **ᴊᴀᴠᴀ**
-- **ᴄ++**
+- **ᴊᴀᴠᴀ** *(Focado no desenvolvimento de sistemas robustos e orientação a objetos)*
+- **ᴄ++** *(Essencial para alta performance, automação e interação direta com hardware)*
 
 #### 🔒 ᴄʏʙᴇʀsᴇɢᴜʀᴀɴçᴀ & ʜᴀᴄᴋɪɴɢ
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
-- **ᴀssᴇᴍʙʟʏ** *(Fundamental para engenharia reversa e baixo nível)*
+<p align="left">
+  <img src="https://media1.tenor.com/m/8V2T3J5r1YMAAAAC/matrix-binary-code.gif" width="100%" alt="Código Binário" />
+</p>
+
+![Assembly](https://img.shields.io/badge/Assembly-black?style=for-the-badge&logo=assemblyscript&logoColor=white)
+- **ᴀssᴇᴍʙʟʏ** *(Fundamental para engenharia reversa e análise de baixo nível)*
 - Conceitos avançados de Redes, Sistemas Operacionais e Segurança Ofensiva.
+
+---
+
+### 📊 ᴇsᴛᴀᴛísᴛɪᴄᴀs ᴅᴏ ɢɪᴛʜᴜʙ
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=dark&hide_border=true" />
+</p>
