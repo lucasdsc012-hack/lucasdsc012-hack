@@ -23,10 +23,6 @@ Estou expandindo meus conhecimentos para alcançar meus objetivos profissionais:
 - **ᴄ++** *(Essencial para alta performance, automação e interação direta com hardware)*
 
 #### 🔒 ᴄʏʙᴇʀsᴇɢᴜʀᴀɴçᴀ & ʜᴀᴄᴋɪɴɢ
-<p align="left">
-  <img src="https://media1.tenor.com/m/8V2T3J5r1YMAAAAC/matrix-binary-code.gif" width="100%" alt="Código Binário" />
-</p>
-
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 - **ᴀssᴇᴍʙʟʏ** *(Fundamental para engenharia reversa e análise de baixo nível)*
 - Conceitos avançados de Redes, Sistemas Operacionais e Segurança Ofensiva.
