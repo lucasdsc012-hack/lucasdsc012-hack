@@ -9,7 +9,7 @@
 ---
 
 ### 💡 ᴍᴇᴜs ʜɪᴘᴇʀғᴏᴄᴏs & ᴘᴀɪxõᴇs 🐧
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="border-radius: 50%;" alt="Linux" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="border-radius: 50%;" alt="Linux" /> 
 - **sɪsᴛᴇᴍᴀs ᴏᴘᴇʀᴀᴄɪᴏɪs & ʟɪɴᴜx** 🐧 *(Minha maior paixão e área de hiperfoco — para os mais íntimos, o pinguim Tux e o mascote do urso polar barrigudinho com patinhas amarelas estilo clássico)*
 - **ʟɪɴᴜs ᴛᴏʀᴠᴀʟᴅs** *(Grande inspiração e criador do Linux — [GitHub do Linus](https://github.com/torvalds))*
 
@@ -35,7 +35,7 @@ Estou expandindo meus conhecimentos para alcançar meus objetivos profissionais:
 - **ᴍᴀsᴄᴏᴛᴇ ᴏғɪᴄɪᴀʟ:** 🐻‍❄️ Um **urso polar branco e barrigudinho**, sentado na mesma pose clássica e icônica (com as solas das patas amarelas), sendo o fiel guardião do VictuxOS!
 
 #### 🔒 ᴄʏʙᴇʀsᴇɢᴜʀᴀɴçᴀ & ʜᴀᴄᴋɪɴɢ
-<img src="https://img.shields.io/badge/ASM-0d6efd?style=for-the-badge&logo=assemblyscript&logoColor=white" style="border-radius: 50%;" alt="ASM" />
+<img src="https://api.iconify.googleusercontent.com/simple-icons:assemblyscript.svg?color=%23ffffff&bg=%230044cc" width="50px" height="50px" style="border-radius: 50%; vertical-align: middle;" alt="Assembly" /> 
 - **ᴀssᴇᴍʙʟʏ** *(Fundamental para engenharia reversa, análise de baixo nível e interações diretas com o hardware)*
 - Conceitos avançados de Redes, Sistemas Operacionais e Segurança Ofensiva.
 
