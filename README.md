@@ -30,8 +30,9 @@ Estou expandindo meus conhecimentos para alcançar meus objetivos profissionais:
 - **ᴄ++** *(Essencial para alta performance, automação e interação direta com hardware)*
 
 #### 💻 sɪsᴛᴇᴍᴀs ᴏᴘᴇʀᴀᴄɪᴏɪs & ᴏs
-![VictuxOS](https://img.shields.io/badge/VictuxOS-000000?style=for-the-badge&logo=linux&logoColor=228B22)
+![VictuxOS](https://img.shields.io/badge/OS-VictuxOS-0d1117?style=for-the-badge&logo=gnometerminal&logoColor=228B22)
 - **ᴍᴇᴜ sᴏɴʜᴏ:** Criar o meu próprio Sistema Operacional chamado **VictuxOS**.
+- **ᴍᴀsᴄᴏᴛᴇ ᴏғɪᴄɪᴀʟ:** 🐻‍❄️ Um **urso branco** (o guardião do VictuxOS e grande amigo do pinguim Tux)!
 
 #### 🔒 ᴄʏʙᴇʀsᴇɢᴜʀᴀɴçᴀ & ʜᴀᴄᴋɪɴɢ
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
