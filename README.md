@@ -35,7 +35,8 @@ Estou expandindo meus conhecimentos para alcançar meus objetivos profissionais:
 - **ᴍᴀsᴄᴏᴛᴇ ᴏғɪᴄɪᴀʟ:** 🐻‍❄️ Um **urso polar branco e barrigudinho**, sentado na mesma pose clássica e icônica (com as solas das patas amarelas), sendo o fiel guardião do VictuxOS!
 
 #### 🔒 ᴄʏʙᴇʀsᴇɢᴜʀᴀɴçᴀ & ʜᴀᴄᴋɪɴɢ
-<img src="https://img.shields.io/badge/-ASM-0044CC?style=flat-square&logo=assemblyscript&logoColor=white" height="28px" alt="Assembly Icon" />
+<img <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=asm" alt="ASM Icon" /></a>
+
 
 - **ᴀssᴇᴍʙʟʏ** *(Fundamental para engenharia reversa, análise de baixo nível e interações diretas com o hardware)*
 - Conceitos avançados de Redes, Sistemas Operacionais e Segurança Ofensiva.
