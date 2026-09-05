@@ -9,15 +9,15 @@
 ---
 
 ### 💡 ᴍᴇᴜs ʜɪᴘᴇʀғᴏᴄᴏs & ᴘᴀɪxõᴇs 🐧
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
-- **sɪsᴛᴇᴍᴀs ᴏᴘᴇʀᴀᴄɪᴏɪs & ʟɪɴᴜx** 🐧 *(Minha maior paixão e área de hiperfoco — para os mais íntimos, o pinguim Tux)*
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="border-radius: 50%;" alt="Linux" />
+- **sɪsᴛᴇᴍᴀs ᴏᴘᴇʀᴀᴄɪᴏɪs & ʟɪɴᴜx** 🐧 *(Minha maior paixão e área de hiperfoco — para os mais íntimos, o pinguim Tux e o mascote do urso polar barrigudinho com patinhas amarelas estilo clássico)*
 - **ʟɪɴᴜs ᴛᴏʀᴠᴀʟᴅs** *(Grande inspiração e criador do Linux — [GitHub do Linus](https://github.com/torvalds))*
 
 ---
 
-### ⚡ ᴛᴇᴄɴᴏʟᴏɢɪᴀs ǫᴜᴇ ᴜsᴏ
-[![Minhas Skills Atuais](https://skillicons.dev/icons?i=c,python)](https://skillicons.dev)
-*Atualmente focado em C e Python para construir as bases da programação.*
+### ⚡ ᴛᴇᴄɴᴏʟᴏɢɪᴀs ǫᴜᴇ ᴜsᴏ (ʙᴀsᴇs)
+[![Bases](https://skillicons.dev/icons?i=c,python)](https://skillicons.dev)
+*Atualmente focado em C e Python para construir as bases sólidas da programação.*
 
 ---
 
@@ -32,17 +32,17 @@ Estou expandindo meus conhecimentos para alcançar meus objetivos profissionais:
 #### 💻 sɪsᴛᴇᴍᴀs ᴏᴘᴇʀᴀᴄɪᴏɪs & ᴏs
 ![VictuxOS](https://img.shields.io/badge/OS-VictuxOS-0d1117?style=for-the-badge&logo=gnometerminal&logoColor=228B22)
 - **ᴍᴇᴜ sᴏɴʜᴏ:** Criar o meu próprio Sistema Operacional chamado **VictuxOS**.
-- **ᴍᴀsᴄᴏᴛᴇ ᴏғɪᴄɪᴀʟ:** 🐻‍❄️ Um **urso branco** (o guardião do VictuxOS e grande amigo do pinguim Tux)!
+- **ᴍᴀsᴄᴏᴛᴇ ᴏғɪᴄɪᴀʟ:** 🐻‍❄️ Um **urso polar branco e barrigudinho**, sentado na mesma pose clássica e icônica (com as solas das patas amarelas), sendo o fiel guardião do VictuxOS!
 
 #### 🔒 ᴄʏʙᴇʀsᴇɢᴜʀᴀɴçᴀ & ʜᴀᴄᴋɪɴɢ
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
-- **ᴀssᴇᴍʙʟʏ** *(Fundamental para engenharia reversa e análise de baixo nível)*
+<img src="https://img.shields.io/badge/ASM-0d6efd?style=for-the-badge&logo=assemblyscript&logoColor=white" style="border-radius: 50%;" alt="ASM" />
+- **ᴀssᴇᴍʙʟʏ** *(Fundamental para engenharia reversa, análise de baixo nível e interações diretas com o hardware)*
 - Conceitos avançados de Redes, Sistemas Operacionais e Segurança Ofensiva.
 
 ---
 
-### 🛠️ ғᴇʀʀᴀᴍᴇɴᴛᴀs & ᴜᴛɪʟɪᴛÁʀɪᴏs
-[![Ferramentas](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)
+### 🛠️ ғᴇʀʀᴀᴍᴇɴᴛᴀs & ᴀᴍʙɪᴇɴᴛᴇs
+[![Ferramentas](https://skillicons.dev/icons?i=github,vscode,git)](https://skillicons.dev)
 
 ---
 
