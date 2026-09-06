@@ -21,7 +21,7 @@
 
 ---
 
-### 🚀 ᴊᴏʀɴᴀᴅᴀ ᴅᴇ ᴀᴘʀᴇɴᴅɪᴢᴀᴅᴏ & sᴏɴʜᴏs
+### 🚀 ᴊ.ornada ᴅᴇ ᴀᴘʀᴇɴᴅɪᴢᴀᴅᴏ & sᴏɴʜᴏs
 Estou expandindo meus conhecimentos para alcançar meus objetivos profissionais:
 
 #### 🛠️ ᴇɴɢᴇɴʜᴀʀɪᴀ ᴅᴇ sᴏғᴛᴡᴀʀᴇ & ʜᴀʀᴅᴡᴀʀᴇ
@@ -35,9 +35,9 @@ Estou expandindo meus conhecimentos para alcançar meus objetivos profissionais:
 - **ᴍᴀsᴄᴏᴛᴇ ᴏғɪᴄɪᴀʟ:** 🐻‍❄️ Um **urso polar branco e barrigudinho**, sentado na mesma pose clássica e icônica (com as solas das patas amarelas), honrando e guardando o legado do pinguim Tux no VictuxOS!
 
 #### 🔒 ᴄʏʙᴇʀsᴇɢᴜʀᴀɴçᴀ & ʜᴀᴄᴋɪɴɢ
-[![ASM](https://img.shields.io/badge/ASM-0044CC?style=for-the-badge&logo=assemblyscript&logoColor=white)](https://skillicons.dev) [![NASM](https://img.shields.io/badge/NASM-0055CC?style=for-the-badge&logo=assemblyscript&logoColor=white)](https://skillicons.dev)
+[![ASM](https://img.shields.io/badge/ASM-0044CC?style=for-the-badge&logo=assemblyscript&logoColor=white)](https://github.com) [![NASM](https://img.shields.io/badge/NASM-0055CC?style=for-the-badge&logo=assemblyscript&logoColor=white)](https://github.com) [![WASM](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)](https://github.com)
 
-- **ᴀssᴇᴍʙʟʏ & ɴᴀsᴍ** *(Fundamental para engenharia reversa, análise de baixo nível e interações diretas com o hardware)*
+- **ᴀssᴇᴍʙʟʏ, ɴᴀsᴍ & ᴡᴇʙᴀssᴇᴍʙʟʏ** *(Fundamental para engenharia reversa, análise de baixo nível e interações diretas com o hardware)*
 - Conceitos avançados de Redes, Sistemas Operacionais e Segurança Ofensiva.
 
 ---
