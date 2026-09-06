@@ -21,7 +21,7 @@
 
 ---
 
-### 🚀 ᴊ.ornada ᴅᴇ ᴀᴘʀᴇɴᴅɪᴢᴀᴅᴏ & sᴏɴʜᴏs
+### 🚀 ᴊornada ᴅᴇ ᴀᴘʀᴇɴᴅɪᴢᴀᴅᴏ & sᴏɴʜᴏs
 Estou expandindo meus conhecimentos para alcançar meus objetivos profissionais:
 
 #### 🛠️ ᴇɴɢᴇɴʜᴀʀɪᴀ ᴅᴇ sᴏғᴛᴡᴀʀᴇ & ʜᴀʀᴅᴡᴀʀᴇ
